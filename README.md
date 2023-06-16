@@ -28,15 +28,18 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Projet
+## About The Project
 
-Here is mine. Every great programmer has a personal website with incredible examples of their work. Please get in touch with me at vinothinikupendiran16@gmail.com if you're interested in collaborating or hiring me for your project.
+* Here is mine. Every great programmer has a personal website with incredible examples of their work. Please get in touch with me at vinothinikupendiran16@gmail.com if you're interested in collaborating or hiring me for your project.
 
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-
+                    
+## Description
+    
+  
 
 
 <!-- CONTRIBUTING -->
