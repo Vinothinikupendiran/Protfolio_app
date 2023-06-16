@@ -26,11 +26,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Projet
 
-[![https://www.othneildrew.com][product-screenshot]](https://www.othneildrew.com)
-
-Every great developer has a personal website filled with amazing examples of their code - Here's mine. Interested in working together or hiring me for your project? Contact me at codeguydrew@gmail.com
+Here is mine. Every great programmer has a personal website with incredible examples of their work. Please get in touch with me at vinothinikupendiran16@gmail.com if you're interested in collaborating or hiring me for your project.
 
 ### Built With
 
