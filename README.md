@@ -18,12 +18,11 @@
 1) About the Project
 2) Description                
 3) Project Timeline
-4) Project Summary
-5) Project Resources
+4) Project Resources
     * Built With
-6) Visual Studio Code
-7) Github Functionalities
-8) Project Benefits
+5) Visual Studio Code
+6) Github Functionalities
+7) Project Benefits
 
 
 
