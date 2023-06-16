@@ -15,13 +15,15 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* Project Title
+*  About the project                  
   * [Built With](#built-with)
-* [Contributing](#contributing)
-* [License](#license)
-* [Let's Get Social](#lets-get-social)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* Description
+* Project Summary
+* Project Resources
+* Visual Studion Code
+* Github Functionalities
+* Project Benefits
 
 
 
@@ -40,8 +42,7 @@ Here is mine. Every great programmer has a personal website with incredible exam
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+The open source community is so amazing to learn from, be inspired by, and create thanks to contributions. We sincerely appreciate your support in any way.
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
