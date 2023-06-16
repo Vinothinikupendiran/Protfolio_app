@@ -1,2 +1,2 @@
 # Protfolio_app
-my protfolio_app is upddated
+my protfolio_app is updated
