@@ -1,28 +1,13 @@
 # Protfolio_app
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/othneildrew.github.io">
+  <a href="https://github.com/Vinothinikupendiran/Protfolio_app>
     <img src="./images/airplane.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">othneildrew.github.io</h3>
-
-  <p align="center">
-    Personal/Project website hosted on GitHub Pages.
-    <br />
-    <a href="https://www.othneildrew.com">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/othneildrew.github.io/issues">Report Bug</a>
-  </p>
+  <h3 align="center">Vinothinikupendiran/Portfolio.io</h3>
 </p>
 
 
