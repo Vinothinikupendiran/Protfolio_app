@@ -1,10 +1,13 @@
 # Protfolio_app
 ![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT SHIELDS -->
-👩[LinkedIn-sheild](https://www.linkedin.com/in/vinothini-kupendiran-a81827220)
 
-
- ©[Contributors](https://github.com/Vinothinikupendiran/Protfolio_app)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -72,3 +75,17 @@
 Vinothini Kupendiran - [https://www.linkedin.com/in/vinothini-kupendiran-a81827220](https://www.linkedin.com/in/vinothini-kupendiran-a81827220) - vinothinikupendiran16@gmail.com
 
 Project Link - [https://github.com/Vinothinikupendiran/Protfolio_app](https://github.com/Vinothinikupendiran/Protfolio_app)
+                                                                   
+<!-- PROJECT SHIELDS -->
+[contributors-shield]: https://img.shields.io/github/contributors/Vinothinikupendiran/Portfolio_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vinothinikupendiran/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com//Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Vinothinikupendiran/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/Vinothinikupendiran/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/Vinothinikupendiran/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Linkedin-url]:https://www.linkedin.com/in/vinothini-kupendiran-a81827220
