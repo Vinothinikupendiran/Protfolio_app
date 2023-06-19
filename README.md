@@ -67,22 +67,33 @@
 * [![JQuery][JQuery.com]][JQuery-url]
              
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
+        <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Visual Studio Code:
                     
 👉The streamlined code editor Visual Studio Code supports task execution, version control, and debugging. Improve the adaptability and output of developers. Streamline each stage of development with the help of resources and tools to help programmers create the upcoming wave of apps. Utilizing Github and Visual Studio Code.
+           <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Github Functionalities:
  
 👉Users are able to create repositories for storing and sharing  source code through the cloud-based service Github. By integrating Github with Visual Studio Code, you can collaborate with others inside your editor and share your source code. The website for the portfolio was made using applications.
+             <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Project Benefits:
                     
 👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethics are revealed.
                                                                    
+              <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact:
 
 Vinothini Kupendiran - [https://www.linkedin.com/in/vinothini-kupendiran-a81827220](https://www.linkedin.com/in/vinothini-kupendiran-a81827220) - vinothinikupendiran16@gmail.com
+                   
+                 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 Project Link - [https://github.com/Vinothinikupendiran/Protfolio_app](https://github.com/Vinothinikupendiran/Protfolio_app)
                                                                    
