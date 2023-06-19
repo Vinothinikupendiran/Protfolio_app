@@ -77,15 +77,15 @@ Vinothini Kupendiran - [https://www.linkedin.com/in/vinothini-kupendiran-a818272
 Project Link - [https://github.com/Vinothinikupendiran/Protfolio_app](https://github.com/Vinothinikupendiran/Protfolio_app)
                                                                    
 <!-- PROJECT SHIELDS -->
-[contributors-shield]: https://img.shields.io/github/contributors/Vinothinikupendiran/Portfolio_app.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vinothinikupendiran/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com//Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Vinothinikupendiran/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Vinothinikupendiran/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/Vinothinikupendiran/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Vinothinikupendiran/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Vinothinikupendiran/Protfolio_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vinothinikupendiran/Protfolio_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vinothinikupendiran/Protfolio_app.svg?style=for-the-badge
+[forks-url]: https://github.com//Protfolio_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vinothinikupendiran/Protfolio_app.svg?style=for-the-badge
+[stars-url]: https://github.com/Vinothinikupendiran/Protfolio_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vinothinikupendiran/Protfolio_app.svg?style=for-the-badge
+[issues-url]: https://github.com/Vinothinikupendiran/Protfolio_app/issues
+[license-shield]: https://img.shields.io/github/license/Vinothinikupendiran/Protfolio_app?style=for-the-badge
+[license-url]: https://github.com/Vinothinikupendiran/Protfolio_app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Linkedin-url]:https://www.linkedin.com/in/vinothini-kupendiran-a81827220
