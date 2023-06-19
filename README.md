@@ -57,9 +57,6 @@
    ✔	There are many front-end web development tools available for different specific requirements, including tools for HTML, CSS, and JavaScript, code editing tools, deployment tools, prototyping and wire-framing tools, security tools, and many more. These front end applications were used to create the portfolio website.
                     
    ✔	Backend server is used.
-                                          
-    <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
                     
 ### Built With
                     
