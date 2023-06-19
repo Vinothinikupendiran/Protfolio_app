@@ -1,5 +1,5 @@
 # Protfolio_app
-WhatsApp Image 2023-06-16 at 3.23.54 PM.jpeg
+![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]]
 
