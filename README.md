@@ -22,15 +22,23 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents:
 
-1) About the Project
-2) Description                
-3) Project Timeline
-4) Project Resources
-    * Built With
-5) Visual Studio Code
-6) Github Functionalities
-7) Project Benefits
-8) Contact
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#About the Project">About The Project</a></li>
+    <li><a href="#Description">Description</a></li>
+    <li><a href="#Project Timeline">Project Timeline</a></li>
+    <li><a href="#Project Resources">Project Resources</a>
+       <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+       </li>
+    <li><a href="#Visual Studio Code">Visual Studio Code</a></li>
+    <li><a href="#Github Functionalities">Github Functionalities</a></li>
+     <li><a href="#Project Benefits">Project Benefits</a></li>
+     <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 ## About the Project:
 
