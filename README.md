@@ -52,9 +52,8 @@
                     
 ### Built With
                     
- 💻 Bootstrap 
-                                                                      
-  📱 JQuery
+ * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
              
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
 
@@ -89,3 +88,7 @@ Project Link - [https://github.com/Vinothinikupendiran/Protfolio_app](https://gi
 [license-url]: https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Linkedin-url]:https://www.linkedin.com/in/vinothini-kupendiran-a81827220
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
