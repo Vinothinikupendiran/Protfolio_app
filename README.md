@@ -1,4 +1,11 @@
 # Protfolio_app
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]]
+
+[![MIT License][license-shield]][license-url]
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/vinothini-kupendiran-a81827220]
+
 
 <!-- PROJECT LOGO -->
 <br />
