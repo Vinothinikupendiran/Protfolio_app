@@ -1,4 +1,5 @@
 # Protfolio_app
+<a name="readme-top"></a>
 ![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT SHIELDS -->
 
@@ -35,8 +36,6 @@
 ## About the Project:
 
   👉Here is mine. Every great programmer has a personal website with incredible examples of their work. Please get in touch with me at vinothinikupendiran16@gmail.com if you're interested in collaborating or hiring me for your project.
-                                                                      
-    Use the `BLANK_README.md` to get started.
                                                                       
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
