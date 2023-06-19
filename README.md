@@ -1,7 +1,7 @@
 # Protfolio_app
 ![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT SHIELDS -->
-👩[LinkedIn](https://www.linkedin.com/in/vinothini-kupendiran-a81827220)
+👩[LinkedIn-sheild](https://www.linkedin.com/in/vinothini-kupendiran-a81827220)
 
 
  ©[Contributors](https://github.com/Vinothinikupendiran/Protfolio_app)
