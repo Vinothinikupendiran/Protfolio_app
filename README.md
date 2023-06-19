@@ -27,8 +27,7 @@
 5) Visual Studio Code
 6) Github Functionalities
 7) Project Benefits
-
-
+8) Contact
 
 ## About the Project:
 
@@ -67,3 +66,9 @@
 ## Project Benefits:
                     
 👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethics are revealed.
+                                                                   
+## Contact
+
+Vinothini Kupendiran - [https://www.linkedin.com/in/vinothini-kupendiran-a81827220](https://www.linkedin.com/in/vinothini-kupendiran-a81827220) - vinothinikupendiran16@gmail.com
+
+Project Link - [https://github.com/Vinothinikupendiran/Protfolio_app](https://github.com/Vinothinikupendiran/Protfolio_app)
