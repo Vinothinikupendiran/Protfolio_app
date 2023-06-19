@@ -1,8 +1,6 @@
 # Protfolio_app
 <a name="readme-top"></a>
-![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT SHIELDS -->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -10,6 +8,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+![Design and development](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/WhatsApp%20Image%202023-06-16%20at%203.23.54%20PM.jpeg)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
