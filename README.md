@@ -67,7 +67,7 @@
                     
 👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethics are revealed.
                                                                    
-## Contact
+## Contact:
 
 Vinothini Kupendiran - [https://www.linkedin.com/in/vinothini-kupendiran-a81827220](https://www.linkedin.com/in/vinothini-kupendiran-a81827220) - vinothinikupendiran16@gmail.com
 
