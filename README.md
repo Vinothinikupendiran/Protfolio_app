@@ -54,7 +54,7 @@
                                                                       
   📱 JQuery
              
-<img src="https://lh4.googleusercontent.com/i1RprwcvxhbN2TAMunNxS4RiNVT0DvlD9FNQCvPFuJ0=w140-h165-no" width="256"/>
+<img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
 
 ## Visual Studio Code:
                     
