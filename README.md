@@ -54,14 +54,14 @@
 
 ## Project Timeline:
                     
-  👉The project timeline is currently in an active stage. There was enough time allotted to finish the project, which entails several stages to build code.
+  👉The project timeline is currently in the active stage. There was enough time allotted to finish the project, which entails several stages to build code.
                                             
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
                    
 ## Project Resources:
 
-   ✔	There are many front-end web development tools available for different specific requirements, including tools for HTML, CSS, and JavaScript, code editing tools, deployment tools, prototyping and wire-framing tools, security tools, and many more. These front end applications were used to create the portfolio website.
+   ✔	There are many front-end web development tools available for different specific requirements, including tools for HTML, CSS, and JavaScript, code editing tools, deployment tools, prototyping and wire-framing tools, security tools, and many more. These front-end applications were used to create the portfolio website.
                     
    ✔	Backend server is used.
                     
@@ -76,7 +76,7 @@
 
 ## Visual Studio Code:
                     
-👉The streamlined code editor Visual Studio Code supports task execution, version control, and debugging. Improve the adaptability and output of developers. Streamline each stage of development with the help of resources and tools to help programmers create the upcoming wave of apps. Utilizing Github and Visual Studio Code.
+👉The streamlined code editor Visual Studio Code supports task execution, version control, and debugging. Improve the adaptability and output of developers. Streamline each stage of development with the help of resources and tools to help programmers create the upcoming wave of apps. Utilizing GitHub and Visual Studio Code.
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -88,7 +88,7 @@
 
 ## Project Benefits:
                     
-👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethics are revealed.
+👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethic are revealed.
                                                                    
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
