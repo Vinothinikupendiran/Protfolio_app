@@ -42,7 +42,7 @@
 
 ## About the Project:
 
-  👉Here is mine. Every great programmer has a personal website with incredible examples of their work. Please get in touch with me at vinothinikupendiran16@gmail.com if you're interested in collaborating or hiring me for your project.
+  👉A portfolio is a collection of initiatives and initiatives. Additional project-related duties and activities may also be included. A portfolio is used to establish centralized management and oversight for numerous projects and programs.
                                                                       
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
