@@ -42,7 +42,7 @@
 
 ## About the Project:
 
-  👉A portfolio is a collection of initiatives and initiatives. Additional project-related duties and activities may also be included. A portfolio is used to establish centralized management and oversight for numerous projects and programs.
+  👉 A portfolio is a collection of projects and programs. It may also cover additional duties and tasks connected to the project. A portfolio is used to establish centralized management and oversight for numerous projects and programs.
                                                                       
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
