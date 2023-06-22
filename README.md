@@ -54,8 +54,7 @@
 
 ## Project Timeline:
                     
-  👉The project timeline is currently in the active stage. There was enough time allotted to finish the project, which entails several stages to build code.
-                                            
+  👉Since the personal portfolio website consists of 3 files—HTML defines the structure of your content, CSS establishes the style and layout, and JavaScript makes the content interactive—it makes the most sense to learn the three languages in that order. The project life cycle is planned and completed in one week in order to build several stages in a portfolio app.
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
                    
