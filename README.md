@@ -36,6 +36,7 @@
     <li><a href="#Visual Studio Code">Visual Studio Code</a></li>
     <li><a href="#Github Functionalities">Github Functionalities</a></li>
      <li><a href="#Project Benefits">Project Benefits</a></li>
+      <li><a href="#Project Outcomes">Project Outcomes</a></li>
      <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -90,6 +91,9 @@
 👉Your beliefs, skills, qualifications, education, training, and experiences are demonstrated in your portfolio, which is a collection of academic and professional materials. Your personality and work ethic are revealed.
                                                                    
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Benefits:
+
 
 ## Contact:
 
