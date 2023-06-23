@@ -94,7 +94,7 @@
 
 ## Project Outcomes:
 
-(https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/project%20outcomes.PNG)
+[!Project Outcomes](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/project%20outcomes.PNG)
 
 
 ## Contact:
