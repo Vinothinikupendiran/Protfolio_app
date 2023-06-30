@@ -49,7 +49,8 @@
 
 ## Description:
   
-  👉What this project hopes to achieve. A person, company that makes investments, or financial institution that owns a portfolio is a collection of financial assets. That. Is the prevailing notion. Selecting the ideal mix of assets to reduce investment risk and increase return is essential for successful portfolio management. A portfolio is a collection of different assets a person owns to help them reach their financial goals. They can also use personal portfolio websites to learn more about their skills.
+  👉What this project hopes to achieve. A person, company that makes investments, or financial institution that owns a portfolio is a collection of financial assets. That. Is the prevailing notion
+  . Selecting the ideal mix of assets to reduce investment risk and increase return is essential for successful portfolio management. A portfolio is a collection of different assets a person owns to help them reach their financial goals. They can also use personal portfolio websites to learn more about their skills.
                                           
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,6 +70,7 @@
                     
  * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![UI/UX][UI/UX.com]][UI/UX-url]
              
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
