@@ -69,8 +69,7 @@
 ### Built With
                     
  * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![UI/UX][UI/UX.com]][UI/UX-url]
+ * [![JQuery][JQuery.com]][JQuery-url]
              
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
