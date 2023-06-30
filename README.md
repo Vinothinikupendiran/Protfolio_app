@@ -70,6 +70,7 @@
                     
  * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
  * [![JQuery][JQuery.com]][JQuery-url]
+ * UI/UX Design
              
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,6 +85,8 @@
   
    
    ✅ Use the mysqli_connect() function in PHP to establish a database connection. Server name, username, password, and database name are the four arguments required. PHP's require_once('db_credentials') function.
+      <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Visual Studio Code:
                     
