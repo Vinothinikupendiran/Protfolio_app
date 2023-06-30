@@ -76,6 +76,8 @@
 
   ## Establishing a linkage between the login page and the database:
 
+
+   ✅ A Windows web development environment is WampServer. It enables the development of web applications using a MySQL database. Additionally, phpMyAdmin makes it simple for you to administer your databases.
   
 
 
