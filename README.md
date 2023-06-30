@@ -77,6 +77,7 @@
   ## Establishing a linkage between the login page and the database:
 
 
+   ✅ To authenticate a user's access, a login form makes use of their credentials. Typically, it consists of a username, email address, and password. However, other fields could be added to increase the site's security.
    ✅ A Windows web development environment is WampServer. It enables the development of web applications using a MySQL database. Additionally, phpMyAdmin makes it simple for you to administer your databases.
   
 
