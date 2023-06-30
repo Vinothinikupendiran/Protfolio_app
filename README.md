@@ -82,7 +82,8 @@
    
    ✅ A Windows web development environment is WampServer. It enables the development of web applications using a MySQL database. Additionally, phpMyAdmin makes it simple for you to administer your databases.
   
-
+   
+   ✅ Use the mysqli_connect() function in PHP to establish a database connection. Server name, username, password, and database name are the four arguments required. PHP's require_once('db_credentials') function.
 
 ## Visual Studio Code:
                     
