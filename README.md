@@ -108,9 +108,6 @@
 
 ## Project Outcomes:
 ![p1](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/p1.PNG)
-![Project Outcomes](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/project%20outcomes.PNG)
-
-
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
