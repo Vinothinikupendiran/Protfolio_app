@@ -76,6 +76,9 @@
 <img src="https://www.gif-maniac.com/gifs/50/49785.gif" width="256"/>
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+  ## Flowchart:
+  ![fc](https://github.com/Vinothinikupendiran/Protfolio_app/blob/main/Flow%20Chart.PNG)
+
   ## Establishing a linkage between the login page and the database:
 
 
