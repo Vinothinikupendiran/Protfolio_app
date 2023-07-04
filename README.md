@@ -33,6 +33,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
        </li>
+    <li><a href="#Flowchart">Flowchart</a></li>
     <li><a href="#Visual Studio Code">Visual Studio Code</a></li>
     <li><a href="#Github Functionalities">Github Functionalities</a></li>
      <li><a href="#Project Benefits">Project Benefits</a></li>
